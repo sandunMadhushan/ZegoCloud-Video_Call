@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Value from default config. -->
+    <integer name="app_id">1733708470</integer>
+    <!-- Value from default config. -->
+    <string name="app_sign" translatable="false">7db962aa339be21c9d62143e6284e159ea0ab5800aa81f1a9d1c50a830869989</string>
+
+</resources>

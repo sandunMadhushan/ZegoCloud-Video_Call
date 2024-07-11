@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <integer name="app_id">1733708470</integer>
+    <string name="app_name">Zego Video Call</string>
+    <string name="app_sign" translatable="false">7db962aa339be21c9d62143e6284e159ea0ab5800aa81f1a9d1c50a830869989</string>
+    <string name="gcm_defaultSenderId" translatable="false">449129874861</string>
+    <string name="google_api_key" translatable="false">AIzaSyA9oDD1rM0D83esemCDhUEJIKpgF-V5BQ8</string>
+    <string name="google_app_id" translatable="false">1:449129874861:android:2933fc0639e3c540a1cd24</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA9oDD1rM0D83esemCDhUEJIKpgF-V5BQ8</string>
+    <string name="google_storage_bucket" translatable="false">zego-video-call-dfc3b.appspot.com</string>
+    <string name="project_id" translatable="false">zego-video-call-dfc3b</string>
+    <style name="Base.Theme.ZegoVideoCall" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ZegoVideoCall" parent="Base.Theme.ZegoVideoCall"/>
+</resources>
